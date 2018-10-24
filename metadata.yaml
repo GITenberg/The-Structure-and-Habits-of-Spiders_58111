@@ -1,5 +1,8 @@
 _repo: The-Structure-and-Habits-of-Spiders_58111
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 58111-h/images/cover.jpg
 creator:
   author:
     agent_name: Emerton, J. H. (James Henry)
