@@ -1,0 +1,28 @@
+_repo: The-Structure-and-Habits-of-Spiders_58111
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Emerton, J. H. (James Henry)
+    aliases:
+    - Emerton, James H.
+    - Emerton, James Henry
+    birthdate: 1847
+    deathdate: 1930
+    gutenberg_agent_id: '41749'
+    url: http://www.gutenberg.org/2009/agents/41749
+    wikipedia: http://en.wikipedia.org/wiki/James_Henry_Emerton
+description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/58111#The-Structure-and-Habits-of-Spiders
+gutenberg_issued: '2018-10-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '58111'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The Structure and Habits of Spiders
+url: http://www.gutenberg.org/ebooks/58111
