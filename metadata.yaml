@@ -15,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/41749
     wikipedia: http://en.wikipedia.org/wiki/James_Henry_Emerton
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/58111#The-Structure-and-Habits-of-Spiders
 gutenberg_issued: '2018-10-16'
 gutenberg_type: Text
 identifiers:
